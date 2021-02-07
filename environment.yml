@@ -1,0 +1,5 @@
+name: Approx
+channels: 
+	- conda-forge
+dependencies: 
+	- numpy
