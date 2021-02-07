@@ -1,5 +1,5 @@
 name: Approx
 channels: 
-	- conda-forge
+  - conda-forge
 dependencies: 
-	- numpy
+  - numpy
